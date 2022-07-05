@@ -130,12 +130,12 @@ Info on where to find the recordings.
 - Intro to Math/Stats  
 - Intro to pivot, groupby
  
-### 2. Intermediate Plotting (9/13)
+### 2. IAdvanced Plotting (9/13)
 - Seaborn
-- Intro to SciPy
+- Maps
+- gif 
 
-### 3. Maps (9/14)
-- Maps + gif
+### 3. Automation  (9/14)
 - .py/.sh scripts
 
 ### 4. Machine learning probably (9/15)
