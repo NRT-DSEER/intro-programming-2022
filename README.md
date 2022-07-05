@@ -130,7 +130,7 @@ Info on where to find the recordings.
 - Intro to Math/Stats  
 - Intro to pivot, groupby
  
-### 2. IAdvanced Plotting (9/13)
+### 2. Advanced Plotting (9/13)
 - Seaborn
 - Maps
 - gif 
