@@ -2,7 +2,7 @@
 This repo houses data and notebooks for the 2022 DSEER "Introduction to Scientific Computing" bootcamp.
 
 ## Instructions:
-0) Follow the setup instructions on [this page](https://carpentries.github.io/workshop-template/#setup) titled "The Bash Shell", "Git" and "Python". Basically, everything under "Setup" not including "R." 
+0) Follow the setup instructions on [this page](https://carpentries.github.io/workshop-template/#setup) titled "The Bash Shell", "Git" and "Python". Basically, everything under "Setup" not including "R" or "text editor." 
       - For python, install Anaconda.
       - The videos may be helpful. 
       - These additional tutorials may also be helpful to skim:
