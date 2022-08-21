@@ -34,7 +34,7 @@ Don't change the structure!
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack.
 
 - Amanda Farah (she/her or they/them), 4th year graduate student, Astrophysics
-- Katie Dixon (she/her), 5th year graduate student, Ecology and Evolution
+- Katie Dixon (she/her), 6th year graduate student, Ecology and Evolution
 - Maria D Hernandez Limon (she/her), 4th year graduate student, Geophysical Sciences
 
 ### Teaching Assistants:
