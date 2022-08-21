@@ -42,7 +42,7 @@ Contact over slack or attend [office hours](#office-hours) at this link:
 
 ### Class Time:
 - Aug 29-Sept 16
-- 10:00am-12:30pm CT 
+- 09:30am-12:30pm CT 
 - We will not have class on Labor Day 9/5.
 
 ### Structure:
@@ -57,7 +57,7 @@ Contact over slack or attend [office hours](#office-hours) at this link:
 - During class, post to your slack channel and your TA will respond in real time
 
 ### Recordings:
-Info on where to find the recordings.
+The folder for the recordings will be posted over Slack or sent over email. We will add each day's recordings a few hours after classtime.
 
 ## Week 1: Foundation 
 ### 1. General instruction and go over syllabus (8/29)
@@ -91,12 +91,12 @@ Info on where to find the recordings.
 
 ### 3. Automation (8/31)
 - Loops- for/while
-- if/else (computation example 4 motivation)
+- if/else statements 
 
 ### 4. Numpy (9/1)
 - Array Wise operations and math
 - 2D arrays, linear algebra
-- (mention that all numpy knowledge we learned here is enough for basic data manipulation)
+- All numpy knowledge we learned here is enough for basic data manipulation
 
 ### 5. Numpy Continued (9/2)
 
@@ -106,7 +106,7 @@ Info on where to find the recordings.
 - User-defined functions
 - docstrings!!!
 - List python built-in functions
-- Make connection to functions in libraries
+- Discuss how functions relate to libraries
 
 ### 2. Introduction to Plotting (9/7)
 - plotting with matplot
@@ -139,9 +139,12 @@ Info on where to find the recordings.
 ### 3. Automation  (9/14)
 - .py/.sh scripts
 
-### 4. Machine learning probably (9/15)
--TBD
 
-### 5. Machine learning probably (9/16)
--TBD
+## For those of you who signed up to take the machine learning course:
+
+### 4. Machine learning (9/15)
+- Introduction to Random Forests
+
+### 5. Machine learning (9/16)
+- Introduction to Neural Networks
 
