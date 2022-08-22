@@ -41,7 +41,7 @@ All the instructors are also on Slack, we prefer that you send us a slack messag
 Contact over slack or attend [office hours](#office-hours) at this link:
 
 ### Class Time:
-- Aug 29-Sept 16
+- Aug 29-Sept 14
 - 09:30am-12:30pm CT 
 - We will not have class on Labor Day 9/5.
 
