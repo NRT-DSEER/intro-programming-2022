@@ -45,6 +45,8 @@ Contact over slack or attend [office hours](#office-hours) at this link:
 - 09:30am-12:30pm CT 
 - We will not have class on Labor Day 9/5.
 
+-You will receive an email with the zoom link for class.
+
 ### Structure:
 - Instructors will go over pre-written code and discuss the mechanics of what is going on
 - We will stop intermittently for skill practice and breaks 
