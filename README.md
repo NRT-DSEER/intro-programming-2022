@@ -33,17 +33,22 @@ Don't change the structure!
 ### Instructors:
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack.
 
-- Amanda Farah (she/her or they/them), 4th year graduate student, Astrophysics
-- Katie Dixon (she/her), 6th year graduate student, Ecology and Evolution
-- Maria D Hernandez Limon (she/her), 4th year graduate student, Geophysical Sciences
+- Amanda Farah (she/her or they/them), 4th year PhD Candidate, Astrophysics
+- Katie Dixon (she/her), 6th year PhD Candidate, Ecology and Evolution
+- Maria D Hernandez Limon (she/her), 4th year PhD Candidate, Geophysical Sciences
 
 ### Teaching Assistants:
-Contact over slack or attend [office hours](#office-hours) at this link:
+Contact over slack
+- Salman Yousaf, incoming graduate student, MS Analytics Program 
+- Shrikanth Subramanian, 2nd year graduate student, MS Computer Science 
 
 ### Class Time:
 - Aug 29-Sept 14
 - 09:30am-12:30pm CT 
+- We will dedicate at least 20mins at the end of class to answer questions. 
 - We will not have class on Labor Day 9/5.
+
+-You will receive an email with the zoom link for class.
 
 ### Structure:
 - Instructors will go over pre-written code and discuss the mechanics of what is going on
@@ -52,8 +57,9 @@ Contact over slack or attend [office hours](#office-hours) at this link:
 - Occasional, short skill practice problems as homework 
 
 ### How to ask for help:
-- Go to the office hours of any of the TAs
-- If you need help outside of class time or office hours, contact one of the TAs via slack. They will respond during their office hours.
+- Ask questions on slack or in person - there is a high likelyhood someone will have the same question as you that's why we want questions on slack 
+- Plan to stay the entire class period as we will offer office hours towards the end of class.
+- If you need help outside of class time or office hours, contact one of the TAs via slack.
 - During class, post to your slack channel and your TA will respond in real time
 
 ### Recordings:
