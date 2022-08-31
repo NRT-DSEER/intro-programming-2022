@@ -23,6 +23,8 @@ This repo houses data and notebooks for the 2022 DSEER "Introduction to Scientif
 
 `notebooks` holds notebooks
 
+`solutions` contains answers to the daily check-ins and homeworks
+
 `output` is where you will save your own files
 
 Don't change the structure!
