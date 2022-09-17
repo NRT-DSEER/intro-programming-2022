@@ -145,15 +145,7 @@ The folder for the recordings will be posted over Slack or sent over email. We w
 - Maps
 - gif 
 
-### 3. Automation  (9/14)
-- .py/.sh scripts
-
-
-## For those of you who signed up to take the machine learning course:
-
-### 4. Machine learning (9/15)
-- Introduction to Random Forests
-
-### 5. Machine learning (9/16)
-- Introduction to Neural Networks
-
+### 3. Beyond the Jupyter Notebook  (9/14)
+- The command line
+- `.py` scripts and making your own module
+- Interactive python
